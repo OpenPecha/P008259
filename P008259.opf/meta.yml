@@ -5,3 +5,13 @@ source_metadata:
   title: རྒྱལ་སྲས་ལག་ལེན་གྱི་རྩ་འགྲེལ།
   volume: ''
   author: ''
+ebook_metadata:
+  title: རྒྱལ་སྲས་ལག་ལེན་གྱི་རྩ་འགྲེལ།
+  authors:
+  sku: P000101
+  cover: LEK-PHI-001.jpg
+  layers:
+  - Chapter
+  - Pagination
+  - Citation
+  - Sabche
