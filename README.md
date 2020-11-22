@@ -4,4 +4,4 @@
 ## Author
 > ཐུབ་བསྟན་ཆོས་ཀྱི་གྲགས་པ།
 
-[Edit <img src="https://img.icons8.com/color/20/000000/edit-property.png">](http://editor.openpecha.org/P008259)
+[<img src="https://img.icons8.com/color/20/000000/edit-property.png"> Open in Editor](http://editor.openpecha.org/P008259)
