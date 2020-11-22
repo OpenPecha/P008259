@@ -1,39 +1,5 @@
 ༄༅།།བོད་ཀྱི་ནང་བསྟན་དཔེ་ཚོགས་ལྟེ་གནས།།
-Tibetan Buddhist Resource Center
-Text Scan Input Form - Title Page
-Work:
-LCCN:
-W3CN525
-n/a
-ImageGroup:
-ISBN:
-13CN8488
-n/a
-Title:
-རྒྱལ་སྲས་ལག་ལེན་གྱི་རྩ་འགྲེལ། །
-||rgyal sras lag len gyi rtsa 'grel/
-Author:
-||n/a
-n/a
-Descriptor:
-Original Publication:
-n/a;n/a
-Place:
-n/a
-dpal ya chen o rgyan bsam gtan gling/
-Publisher:
-Date:
-n/a
-Volume:
-Total Volumes:
-TBRC Pages:
-In/a
-Introductory Pages:
-Text Pages:
-Scanning Information:
-n/a
-Scanned at Tibetan Buddhist Resource Center, 1430 Massachusetts Ave, 5th Floor,
-Cambridge, Mass. 02138.
+
 
 
 
