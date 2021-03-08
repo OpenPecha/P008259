@@ -4,7 +4,12 @@ source_metadata:
   id: bdr:W3CN525
   title: རྒྱལ་སྲས་ལག་ལེན་གྱི་རྩ་འགྲེལ།
   author: ཐུབ་བསྟན་ཆོས་ཀྱི་གྲགས་པ།
-  volumes: {}
+  volumes:
+    6e190327e22d493c8f3a6f2103a542ab:
+      image_group_id: I3CN8488
+      title: ''
+      volume_number: 1
+      total_pages: 254
 ebook_metadata:
   title: རྒྱལ་སྲས་ལག་ལེན་གྱི་རྩ་འགྲེལ།
   authors:
